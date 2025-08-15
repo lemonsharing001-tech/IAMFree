@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
 
 # ----- Render ရဲ့ Environment Variable ကနေ Token ကို ရယူခြင်း -----
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = os.getenv("8359536332:AAH_214C4jMpBSvkbnyNQKLnL0keL3RXRVU")
 
 def setup_driver():
     chrome_options = Options()
