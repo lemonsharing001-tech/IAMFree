@@ -1,0 +1,108 @@
+{
+    "lawyershandbook": [
+        {
+            "name": "ခေါင်းစဥ်အစမ်း",
+            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+            "descriptions": "Testing1",
+            "series": [
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                }
+            ]
+        }
+    ],
+    "OthersBooks": [
+        {
+            "name": "ခေါင်းစဥ်အစမ်း",
+            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+            "descriptions": "Testing1",
+            "series": [
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                },
+                {
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "title": "title1",
+                    "description": "description1",
+                    "downloadlink": "https://www.monrec.gov.mm/sites/default/files/test/Book_PDF/Civil%20servant%20Rules%20%282%29.pdf"
+                }
+            ]
+        }
+    ],
+    "Ads": [
+        {
+            "Name": "U U Test",
+            "location": "Yangon",
+            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+            "additional": {
+                "Name": "U U Test",
+                "Photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                "Postiton": "အထက်တန်းရှေနေ",
+                "location": "Yangon",
+                "Phone": " 09988888888",
+                "descriptions": "aabbccdd"
+            }
+        },
+        {
+            "Name": "U U Test",
+            "location": "Yangon",
+            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+            "additional": {
+                "Name": "U U Test",
+                "Photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                "Postiton": "အထက်တန်းရှေနေ",
+                "location": "Yangon",
+                "Phone": " 09988888888",
+                "descriptions": "aabbccdd"
+            }
+        }
+    ]
+}
