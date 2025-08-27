@@ -79,28 +79,28 @@
     ],
     "Ads": [
         {
-            "Name": "U U Test",
+            "name": "U U Test",
             "location": "Yangon",
             "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
             "additional": {
-                "Name": "U U Test",
-                "Photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-                "Postiton": "အထက်တန်းရှေနေ",
+                "name": "U U Test",
+                "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                "position": "အထက်တန်းရှေနေ",
                 "location": "Yangon",
-                "Phone": " 09988888888",
+                "phone": " 09988888888",
                 "descriptions": "aabbccdd"
             }
         },
         {
-            "Name": "U U Test",
+            "name": "U U Test",
             "location": "Yangon",
             "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
             "additional": {
-                "Name": "U U Test",
-                "Photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-                "Postiton": "အထက်တန်းရှေနေ",
+                "name": "U U Test",
+                "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                "position": "အထက်တန်းရှေနေ",
                 "location": "Yangon",
-                "Phone": " 09988888888",
+                "phone": " 09988888888",
                 "descriptions": "aabbccdd"
             }
         }
