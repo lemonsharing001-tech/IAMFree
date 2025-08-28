@@ -79,30 +79,81 @@
     ],
     "lawyers_ads": [
         {
-            "name": "U U Test",
             "location": "Yangon",
-            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-            "additional": {
-                "name": "U U Test",
-                "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-                "position": "အထက်တန်းရှေနေ",
-                "location": "Yangon",
-                "phone": " 09988888888",
-                "descriptions": "aabbccdd"
-            }
+            "details": [
+                {
+                    "name": "U U Test",
+                    "location": "Yangon",
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "additional": {
+                        "name": "U U Test",
+                        "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                        "position": "အထက်တန်းရှေနေ",
+                        "location": "Yangon",
+                        "phone": " 09988888888",
+                        "descriptions": "aabbccdd"
+                    }
+                },
+                {
+                    "name": "U U Test",
+                    "location": "Yangon",
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "additional": {
+                        "name": "U U Test",
+                        "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                        "position": "အထက်တန်းရှေနေ",
+                        "location": "Yangon",
+                        "phone": " 09988888888",
+                        "descriptions": "aabbccdd"
+                    }
+                }
+            ]
+        },
+                {
+            "location": "Mandalay",
+            "details": [
+                {
+                    "name": "U U Test",
+                    "location": "Yangon",
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "additional": {
+                        "name": "U U Test",
+                        "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                        "position": "အထက်တန်းရှေနေ",
+                        "location": "Yangon",
+                        "phone": " 09988888888",
+                        "descriptions": "aabbccdd"
+                    }
+                },
+                {
+                    "name": "U U Test",
+                    "location": "Yangon",
+                    "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                    "additional": {
+                        "name": "U U Test",
+                        "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
+                        "position": "အထက်တန်းရှေနေ",
+                        "location": "Yangon",
+                        "phone": " 09988888888",
+                        "descriptions": "aabbccdd"
+                    }
+                }
+            ]
+        }
+    ],
+
+    "ads" : [
+        {
+            "ads_photo" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg",
+            "ads_link" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg"
         },
         {
-            "name": "U U Test",
-            "location": "Yangon",
-            "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-            "additional": {
-                "name": "U U Test",
-                "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
-                "position": "အထက်တန်းရှေနေ",
-                "location": "Yangon",
-                "phone": " 09988888888",
-                "descriptions": "aabbccdd"
-            }
+            "ads_photo" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg",
+            "ads_link" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg"
+        },
+        {
+            "ads_photo" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg",
+            "ads_link" : "https://ihitthebutton.com/wp-content/uploads/2023/04/youtube-thumbnail-size-1.jpg"
         }
     ]
 }
