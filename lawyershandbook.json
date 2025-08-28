@@ -90,7 +90,11 @@
                         "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
                         "position": "အထက်တန်းရှေနေ",
                         "location": "Yangon",
-                        "phone": " 09988888888",
+                        "contact": {
+                            "phone" : "09847488584",
+                            "facebook" : "www.facebook.com",
+                            "viber" : "098475847384"
+                        },
                         "descriptions": "aabbccdd"
                     }
                 },
@@ -103,7 +107,11 @@
                         "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
                         "position": "အထက်တန်းရှေနေ",
                         "location": "Yangon",
-                        "phone": " 09988888888",
+                        "contact": {
+                            "phone" : "09847488584",
+                            "facebook" : "www.facebook.com",
+                            "viber" : "098475847384"
+                        },
                         "descriptions": "aabbccdd"
                     }
                 }
@@ -121,7 +129,11 @@
                         "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
                         "position": "အထက်တန်းရှေနေ",
                         "location": "Yangon",
-                        "phone": " 09988888888",
+                        "contact": {
+                            "phone" : "09847488584",
+                            "facebook" : "www.facebook.com",
+                            "viber" : "098475847384"
+                        },
                         "descriptions": "aabbccdd"
                     }
                 },
@@ -134,7 +146,11 @@
                         "photo": "https://lh4.googleusercontent.com/ILMsUYbfYY000_rxFamX8fuIYu9al7GIR7R3ribnYbPXIlXlfijrVj4oDfdkbYmYVxwEWwEzq4P_nGDPUEQe4j1BrNvS7MQwwvdtpYXdWC_Jy58vVzhloknUiWoVNryQemIOOdC35uU=w1280",
                         "position": "အထက်တန်းရှေနေ",
                         "location": "Yangon",
-                        "phone": " 09988888888",
+                        "contact": {
+                            "phone" : "09847488584",
+                            "facebook" : "www.facebook.com",
+                            "viber" : "098475847384"
+                        },
                         "descriptions": "aabbccdd"
                     }
                 }
